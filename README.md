@@ -50,6 +50,8 @@ _Note: if you need to use HTML elements that don't have a Markdown equivalent, y
 
 **Check out the [test page](?page=test)** (poveznica će raditi na renderiranoj stranici, a ne na githubu).
 
+[]()
+
 ## Markdown Options
 
 The library uses the [Showdown JS](https://showdownjs.com/) converter which provides some extra options for how the Markdown content will be converted. The following [Showdown options](https://showdownjs.com/docs/available-options/) are active for this library:
