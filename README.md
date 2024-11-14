@@ -1,5 +1,7 @@
 
 ![markdown logo](assets/images/mdp.svg)
+
+![Linux logo](https://www.linux.org/images/logo.png)
 # Poveznice
 - [Markdown](?page=markdown)
 
